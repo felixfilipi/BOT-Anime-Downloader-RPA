@@ -25,9 +25,9 @@ Change the directory according to your PATH environment, normally your UiRobot p
 
 <h2>The main workflow</h2>
 
-<img src="https://github.com/felixfilipi/BOT-Anime-Downloader-RPA/blob/master/main%20workflow.PNG">
+<img src="https://i.ibb.co/n8ng8N0/main-workflow.png">
 <h2>Main Process </h2>
-<img src="https://github.com/felixfilipi/BOT-Anime-Downloader-RPA/blob/master/main%20process.PNG">
+<img src="https://i.ibb.co/xfJXfQC/main-process.png">
 
 <h2>Setup File</h2>
 Will be worked soon, ASAP. :smile:
